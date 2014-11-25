@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="JRedis"
+  id="myeclipse.1411437154911"
+  context-root="/JRedis"
+  j2ee-spec="5.0"
+  archive="JRedis.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
